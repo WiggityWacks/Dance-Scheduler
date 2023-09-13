@@ -1,0 +1,20 @@
+{"classes": [
+  {
+    "dancers": [{
+      "name": "Jason",
+      "age": 19
+    }],
+    "name": "Tech Class",
+    "weekday": "friday",
+    "dance type": "Hip Hop"
+  },
+  {
+    "dancers": [{
+      "name": "Marcus",
+      "age": 45
+    }],
+    "name": "Sexy Street",
+    "weekday": "saturday",
+    "dance type": "House"
+  }
+]}
